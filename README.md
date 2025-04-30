@@ -1,7 +1,7 @@
 # EX-06 - Looping
-NAME : YASHWANTH K 
+NAME : VIRUMAA HARISH M
 
-REG NO : 212224040369
+REG NO : 212223230246
 
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
